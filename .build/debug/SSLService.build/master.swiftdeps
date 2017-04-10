@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f71aea6aa0f1f9fa497d3a457d3ad86e"
+build_time: [544508554, 583971000]
+inputs:
+  "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/Packages/SSLService-0.12.31/Sources/SSLService.swift": [544508535, 0]

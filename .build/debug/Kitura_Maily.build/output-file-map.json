@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Kitura_Maily.build/master.swiftdeps"
+  },
+  "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/Sources/main.swift": {
+    "dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Kitura_Maily.build/main.d",
+    "object": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Kitura_Maily.build/main.swift.o",
+    "swiftmodule": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Kitura_Maily.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Kitura_Maily.build/main.swiftdeps"
+  }
+}

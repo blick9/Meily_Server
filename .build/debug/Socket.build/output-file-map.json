@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/master.swiftdeps"
+  },
+  "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/Packages/Socket-0.12.43/Sources/Socket.swift": {
+    "dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/Socket.d",
+    "object": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/Socket.swift.o",
+    "swiftmodule": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/Socket.swiftdeps"
+  },
+  "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/Packages/Socket-0.12.43/Sources/SocketProtocols.swift": {
+    "dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketProtocols.d",
+    "object": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/Packages/Socket-0.12.43/Sources/SocketUtils.swift": {
+    "dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketUtils.d",
+    "object": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/.build/debug/Socket.build/SocketUtils.swiftdeps"
+  }
+}
