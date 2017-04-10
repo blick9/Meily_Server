@@ -65,7 +65,6 @@ router.post("/api/user/login") { (request, response, next) in
 }
 
 
-// Get일때 url로 값 넘기는 방법은?
 router.get("/api/user/list/:email") { (request, response, next) in
     let emailData = request.parameters["email"] ?? ""
     
@@ -81,9 +80,20 @@ router.get("/api/user/list/:email") { (request, response, next) in
     next()
 }
 
+router.post("/api/login/certifylogin") { (request, response, next) in
+    //
+    // 현재 로그인 된 유저정보 받고, 로그인된 이메일 리퀘스트
+    // 이후 현재 로그인된 유저정보 이메일로 이루어진 키값과 그 키값으로 저장된 아카이브 데이터 전송 후 복구 굿굿
+}
+
+router.get("/api/login/getloginid") { (request, response, next) in
+//    response.send(<#T##str: String##String#>)
+}
+
 router.get("/api/user/alllist") { (request, response, next) in
     response.send(json: DataBase.sharedInstance.getUserEmailList())
 }
+
 
 router.all("/static", middleware: StaticFileServer())
 
