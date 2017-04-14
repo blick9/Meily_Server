@@ -1,5 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "e5f33a675f92059352bd91ae6136ddf1"
-build_time: [544508549, 420578000]
-inputs:
-  "/Users/Febrix/Desktop/Febrix/1. Work/2. Coding/Back-End/Kitura/Kitura-Maily/Packages/LoggerAPI-1.7.0/Sources/LoggerAPI/Logger.swift": [544508515, 0]

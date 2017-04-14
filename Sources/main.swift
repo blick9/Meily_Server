@@ -94,7 +94,6 @@ router.get("/api/user/alllist") { (request, response, next) in
     response.send(json: DataBase.sharedInstance.getUserEmailList())
 }
 
-
 router.all("/static", middleware: StaticFileServer())
 
 Kitura.addHTTPServer(onPort: 8080, with: router)
