@@ -17,7 +17,7 @@
                BlueprintIdentifier = "OBJ_132"
                BuildableName = "LoggerAPI.framework"
                BlueprintName = "LoggerAPI"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "OBJ_139"
                BuildableName = "Socket.framework"
                BlueprintName = "Socket"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "OBJ_148"
                BuildableName = "SSLService.framework"
                BlueprintName = "SSLService"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -59,7 +59,7 @@
                BlueprintIdentifier = "OBJ_157"
                BuildableName = "CHTTPParser.framework"
                BlueprintName = "CHTTPParser"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -73,7 +73,7 @@
                BlueprintIdentifier = "OBJ_172"
                BuildableName = "KituraNet.framework"
                BlueprintName = "KituraNet"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -87,7 +87,7 @@
                BlueprintIdentifier = "OBJ_220"
                BuildableName = "SwiftyJSON.framework"
                BlueprintName = "SwiftyJSON"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -101,7 +101,7 @@
                BlueprintIdentifier = "OBJ_228"
                BuildableName = "KituraTemplateEngine.framework"
                BlueprintName = "KituraTemplateEngine"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -115,7 +115,7 @@
                BlueprintIdentifier = "OBJ_235"
                BuildableName = "Kitura.framework"
                BlueprintName = "Kitura"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -129,7 +129,7 @@
                BlueprintIdentifier = "OBJ_298"
                BuildableName = "HeliumLogger.framework"
                BlueprintName = "HeliumLogger"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -142,8 +142,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "OBJ_308"
                BuildableName = "Kitura-Maily"
-               BlueprintName = "Kitura-Maily"
-               ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+               BlueprintName = "Meily-Server"
+               ReferencedContainer = "container:Meily-Server.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -174,7 +174,7 @@
             BlueprintIdentifier = "OBJ_132"
             BuildableName = "LoggerAPI.framework"
             BlueprintName = "LoggerAPI"
-            ReferencedContainer = "container:Kitura-Maily.xcodeproj">
+            ReferencedContainer = "container:Meily-Server.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>

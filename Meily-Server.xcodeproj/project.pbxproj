@@ -335,7 +335,7 @@
 		OBJ_129 /* Kitura.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Kitura.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		OBJ_13 /* SocketUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocketUtils.swift; sourceTree = "<group>"; };
 		OBJ_130 /* HeliumLogger.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = HeliumLogger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		OBJ_131 /* Kitura-Maily */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Kitura-Maily"; sourceTree = BUILT_PRODUCTS_DIR; };
+		OBJ_131 /* Meily-Server */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = "Meily-Server"; sourceTree = BUILT_PRODUCTS_DIR; };
 		OBJ_15 /* SSLService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSLService.swift; sourceTree = "<group>"; };
 		OBJ_17 /* http_parser.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = http_parser.c; sourceTree = "<group>"; };
 		OBJ_18 /* utils.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = utils.c; sourceTree = "<group>"; };
@@ -586,7 +586,7 @@
 				OBJ_128 /* KituraTemplateEngine.framework */,
 				OBJ_129 /* Kitura.framework */,
 				OBJ_130 /* HeliumLogger.framework */,
-				OBJ_131 /* Kitura-Maily */,
+				OBJ_131 /* Meily-Server */,
 			);
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
@@ -968,9 +968,9 @@
 			productReference = OBJ_130 /* HeliumLogger.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		OBJ_308 /* Kitura-Maily */ = {
+		OBJ_308 /* Meily-Server */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = OBJ_309 /* Build configuration list for PBXNativeTarget "Kitura-Maily" */;
+			buildConfigurationList = OBJ_309 /* Build configuration list for PBXNativeTarget "Meily-Server" */;
 			buildPhases = (
 				OBJ_312 /* Sources */,
 				OBJ_314 /* Frameworks */,
@@ -988,9 +988,9 @@
 				OBJ_331 /* PBXTargetDependency */,
 				OBJ_332 /* PBXTargetDependency */,
 			);
-			name = "Kitura-Maily";
+			name = "Meily-Server";
 			productName = Kitura_Maily;
-			productReference = OBJ_131 /* Kitura-Maily */;
+			productReference = OBJ_131 /* Meily-Server */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -1001,7 +1001,7 @@
 			attributes = {
 				LastUpgradeCheck = 9999;
 			};
-			buildConfigurationList = OBJ_2 /* Build configuration list for PBXProject "Kitura-Maily" */;
+			buildConfigurationList = OBJ_2 /* Build configuration list for PBXProject "Meily-Server" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1022,7 +1022,7 @@
 				OBJ_228 /* KituraTemplateEngine */,
 				OBJ_235 /* Kitura */,
 				OBJ_298 /* HeliumLogger */,
-				OBJ_308 /* Kitura-Maily */,
+				OBJ_308 /* Meily-Server */,
 			);
 		};
 /* End PBXProject section */
@@ -1764,6 +1764,7 @@
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_TEMP_DIR)/SymlinkLibs/";
 				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_NAME = "Meily-Server";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
 				TARGET_NAME = "Kitura-Maily";
@@ -1787,6 +1788,7 @@
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_TEMP_DIR)/SymlinkLibs/";
 				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_NAME = "Meily-Server";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
 				TARGET_NAME = "Kitura-Maily";
@@ -1861,7 +1863,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		OBJ_2 /* Build configuration list for PBXProject "Kitura-Maily" */ = {
+		OBJ_2 /* Build configuration list for PBXProject "Meily-Server" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				OBJ_3 /* Debug */,
@@ -1906,7 +1908,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		OBJ_309 /* Build configuration list for PBXNativeTarget "Kitura-Maily" */ = {
+		OBJ_309 /* Build configuration list for PBXNativeTarget "Meily-Server" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				OBJ_310 /* Debug */,
